@@ -17,6 +17,7 @@ namespace ConsoleApp
             //Comment from PR
             //Simple comment
             //Simple comment
+            //Simple comment
             Console.WriteLine("Hi");
         }
     }
