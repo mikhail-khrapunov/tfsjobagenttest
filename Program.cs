@@ -11,6 +11,7 @@ namespace ConsoleApp
         static void Main(string[] args)
         {
             //Comment
+            //Another comment
             Console.WriteLine("Hi");
         }
     }
