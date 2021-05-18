@@ -16,6 +16,7 @@ namespace ConsoleApp
             //Comment from GH for desktop
             //Comment from PR
             //Simple comment
+            //Simple comment
             Console.WriteLine("Hi");
         }
     }
