@@ -21,6 +21,7 @@ namespace ConsoleApp
             //Simple comment
             //Simple comment 2
             //Simple comment 3
+            //Simple comment 4
             Console.WriteLine("Hi");
         }
     }
